@@ -77,3 +77,5 @@ Salvar o histórico em formato JSON para uso em outros sistemas
 
 Feito com 💻 em C puro.Sinta-se livre para contribuir!
 
+# IGOR e VICTOR
+
